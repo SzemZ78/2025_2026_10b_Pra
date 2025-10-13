@@ -59,3 +59,7 @@ else:
 # Álítsa sorrendbe
 # Adja meg az átlagukat
 # Van e közötök 4-el végződő?
+
+# Otthon tesék beszásolni a github-os repository tartalmát (pull)
+# Házi feladat elkészítése 
+# add, commit, push
